@@ -89,7 +89,7 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: center;
-    opacity: 0.7;
+    opacity: 0.9;
 }
 
 .tm-site-logo {
@@ -124,7 +124,7 @@ h2 {
     text-decoration: none;
     align-items: center;
     font-size: 1.2rem;
-    opacity: 0.7;
+    opacity: 0.9;
 }
 
 .tm-page-link:hover,
@@ -140,7 +140,7 @@ h2 {
 }
 
 .tm-black-bg {
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.9);
     color: white;
 }
 
